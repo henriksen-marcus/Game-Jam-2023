@@ -12,7 +12,7 @@ A multiplayer capture the flag game taking place on two floating islands! Each t
 
 
 ## How to play: 
-1.  [Download the .zip file](https://github.com/henriksen-marcus/Game-Jam-2023/releases)
+1.  [Download the .zip file](https://github.com/henriksen-marcus/Game-Jam-2023/releases/download/v1.0.0/RootinnShootin.zip)
 2. Make sure each player is connected to the same local network
 3. Run the exe file
 
